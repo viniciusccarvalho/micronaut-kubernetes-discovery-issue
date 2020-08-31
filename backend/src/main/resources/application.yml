@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: backend
+endpoints:
+  health:
+    enabled: true
+    sensitive: false
