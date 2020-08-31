@@ -1,0 +1,1 @@
+# micronaut-kubernetes-discovery-issue
