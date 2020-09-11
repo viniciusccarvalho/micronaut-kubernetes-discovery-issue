@@ -25,4 +25,6 @@ Curl the `backend` controller on the `frontend` application
 curl http://<endpoint>/backend/health
 ```
 
-Application freezes
+~~Application freezes~~
+
+Fix: Add `@ExecuteOn` on the controller
